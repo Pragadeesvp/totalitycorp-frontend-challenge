@@ -5,7 +5,7 @@ This is an assignment which was given to me by totalitycorp as an front end chal
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://clonify-tesla.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://635189e4aa348f7defb09e51--pragadees.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
