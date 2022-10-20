@@ -31,5 +31,5 @@ This is an assignment which was given to me by
 <h2><img src="https://cdn.iconscout.com/icon/free/png-128/programmer-6371508-5338499.png" width="50px">Done By</h2>
 <a href="https://github.com/Pragadeesvp">Pragadeeswaran S<a>
 <br>For Details🌐:<br>
-<a href="https://www.linkedin.com/in/pragadeeswarans/">Linkedin@pragadeeswaran.com</a>
+<a href="https://www.linkedin.com/in/pragadeeswarans/">LinkedIn</a>
   
