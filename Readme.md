@@ -4,7 +4,7 @@
   <h2 align="center"> Tesla's Clone Homepage <br></h2>
 </div> 
 <div>
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50px">  Live Project Site: 🔗 <a href="https://635189e4aa348f7defb09e51--pragadees.netlify.app/">TeslaHomepage.com</a></h2> 
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50px">  Live Project Site: <br>🔗 <a href="https://635189e4aa348f7defb09e51--pragadees.netlify.app/">TeslaHomepage.com</a></h2> 
 </div>
 <div>
 This is an assignment which was given to me by
