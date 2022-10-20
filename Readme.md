@@ -9,8 +9,7 @@
 </div>
 <div>
 This is an assignment which was given to me by
-  <img src="https://www.totalitycorp.com/_next/static/media/logo.f83b3df6.webp"  align="center" alt="drawing" width="50" /> <b>Totality Corp</b> as an front end challenge:- Home Page Clone  built using HTML , CSS and Javascrip
-
+  <img src="https://www.totalitycorp.com/_next/static/media/logo.f83b3df6.webp"  align="center" alt="drawing" width="50" /> <b>Totality Corp</b> as an front end challenge:- To built a Home Page Clone for given websites.
 </div>
 
 <h2><img src="https://www.pngarts.com/files/3/Technology-PNG-Picture.png" width="50px">Technologies used</h2>
