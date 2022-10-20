@@ -1,0 +1,15 @@
+@media screen and (min-width: 768px) {
+  header .desktop {
+    display: initial;
+  }
+  .buttons {
+    grid-template-columns: 1fr 1fr;
+    max-width: 640px;
+    margin: 0 auto;
+    -moz-column-gap: 20px;
+         column-gap: 20px;
+  }
+  footer ul {
+    display: flex;
+  }
+}/*# sourceMappingURL=Mobile.css.map */
